@@ -3,7 +3,7 @@
 สุขจงเจริญ
 งาน
 [work](โปรแกรมคำนวณพื้นที่สารพัดประโยชน์.py)<br>
-portfolio by Thanyarat
+portfolio by Thanyarat<br>
 [ปก](1.md)<br>
 [SOP](2.md)<br>
 [ข้อมูลส่วนตัว](3.md)<br>
