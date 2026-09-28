@@ -1,2 +1,2 @@
 # portfolio by Thanyarat
-[ปก](1.py)
+[ปก](1.md)
